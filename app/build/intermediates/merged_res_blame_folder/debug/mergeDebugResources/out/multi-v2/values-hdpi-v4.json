@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tino.doomtimer.app-mergeDebugResources-41:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/r09u3/.gradle/caches/8.10.2/transforms/749135d75a05246009862c64cb1c53f7/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

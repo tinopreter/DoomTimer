@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_brd
+id btn_reset
+id btn_serv
+id btn_servF
+id txt_elapsed
+id txt_timer
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string first_fragment_label
+string lorem_ipsum
+string next
+string previous
+string second_fragment_label
+style Base.Theme.DoomTimer
+style Theme.DoomTimer
+xml backup_rules
+xml data_extraction_rules

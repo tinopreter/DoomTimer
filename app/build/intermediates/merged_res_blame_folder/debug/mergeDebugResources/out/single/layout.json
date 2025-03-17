@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/r09u3/.gradle/daemon/8.10.2/com.tino.doomtimer.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/home/r09u3/.gradle/daemon/8.10.2/com.tino.doomtimer.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tino.doomtimer.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.tino.doomtimer.app-main-45:/layout/activity_main.xml"
+    }
+]

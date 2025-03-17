@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tino.doomtimer.app-mergeDebugResources-41:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/r09u3/.gradle/caches/8.10.2/transforms/749135d75a05246009862c64cb1c53f7/transformed/appcompat-1.7.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
